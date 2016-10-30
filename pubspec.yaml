@@ -1,0 +1,12 @@
+name: 'key_listener'
+version: 1.0.0
+description: >
+  A Dart library for transforming a stream of character code units into Key presses. 
+authors:
+  - Kendal Harland <kjharland@google.com>
+homepage: https://github.com/kharland/key_listener
+dependencies:
+dev_dependencies:
+  test:
+  mockito:
+  dart_style:
