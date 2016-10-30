@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/kharland/key_listener.svg?branch=master)](https://travis-ci.org/kharland/key_listener)
 Key Listener
 --
  
