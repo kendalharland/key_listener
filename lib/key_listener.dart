@@ -7,8 +7,7 @@ import 'package:collection/collection.dart';
 export 'package:key_listener/src/key.dart';
 export 'package:key_listener/src/key_set.dart';
 
-/// A Keyboard that listens for a specified set of keypresses on some input
-/// [Stream].
+/// A [Stream] filter that maps input to keypresses.
 ///
 /// If a key is not handled in this library, its key presses can still be
 /// consumed by subscribing to the [onUnknownKey] stream.
